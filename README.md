@@ -14,7 +14,7 @@
 | Project | Tech & Focus | Links |
 |---------|--------------|-------|
 | **Scriptorium** – code-sharing platform with a secure Docker sandbox (10 + languages) and 20 + JWT-secured REST APIs. | React&nbsp;/&nbsp;Next.js · Prisma · AWS · Docker | [Repo](https://github.com/myk0laUA/Scriptorium-CSC309) |
-| **Project Ollon** – code-analysis MVP using OpenAI & Cohere LLMs; cut scan-time 80 % and manual review 60 %. | Node.js · Prisma · LLM APIs · Docker | [Repo](https://https://github.com/myk0laUA/CSC301-ProjectOllon) |
+| **Project Ollon** – code-analysis MVP using OpenAI & Cohere LLMs; cut scan-time 80 % and manual review 60 %. | Node.js · Prisma · LLM APIs · Docker | [Repo](https://github.com/myk0laUA/CSC301-ProjectOllon) |
 | **ML Classifier** – survey-text Random Forest hitting 89 % accuracy with reproducible scikit-learn pipeline. | Python · scikit-learn · pandas | [Repo](https://github.com/myk0laUA/CSC311-MLProj) |
 
 *(More in my pinned repositories.)*
