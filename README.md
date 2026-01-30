@@ -5,7 +5,7 @@
 - 🎓 **Honours B.Sc.** in Mathematics & Statistics, University of Toronto (completed CS core).
 - 🧑‍💻 **Tech I reach for**: Python · JavaScript/Node.js · TypeScript · Docker · AWS · React · Prisma · SQL
 - 🤝 **Open to**: back-end, full-stack, or applied-AI roles — Toronto / remote.
-- ✉️ **Email**: mykola.zhuk@mail.utoronto.ca &nbsp;&nbsp;|&nbsp;&nbsp;[LinkedIn](https://linkedin.com/in/mykola-zhuk)
+- ✉️ **Email**: m.zhuk.ca@gmail.com &nbsp;&nbsp;|&nbsp;&nbsp;[LinkedIn](https://linkedin.com/in/mykola-zhuk)
 
 ---
 
