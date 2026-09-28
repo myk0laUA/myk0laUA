@@ -6,7 +6,7 @@
 - 🧑‍💻 **Tech I reach for**: Python · JavaScript/Node.js · TypeScript · Docker · AWS · React · Prisma · SQL
 - 🤝 **Open to**: back-end, full-stack, or applied-AI roles — Toronto / remote.
 - ✉️ **Email**: m.zhuk.ca@gmail.com &nbsp;&nbsp;|&nbsp;&nbsp;[LinkedIn](https://linkedin.com/in/mykola-zhuk)
-
+- **Portfolio**: https://myk0laua.github.io/
 ---
 
 ## 🚀 Highlight Projects
