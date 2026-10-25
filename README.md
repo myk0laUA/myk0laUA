@@ -1,53 +1,63 @@
-# 👋 Hi, I’m **Mykola Zhuk**
+# Hi, I'm Mykola Zhuk
 
-> New-grad **Software Engineer** who enjoys turning math-heavy ideas into reliable back-end, full-stack, and ML systems.
+**Software developer in Toronto, focused on backend, full-stack, and applied AI.**
 
-- 🎓 **Honours B.Sc.** in Mathematics & Statistics, University of Toronto (completed CS core).
-- 🧑‍💻 **Tech I reach for**: Python · JavaScript/Node.js · TypeScript · Docker · AWS · React · Prisma · SQL
-- 🤝 **Open to**: back-end, full-stack, or applied-AI roles — Toronto / remote.
-- ✉️ **Email**: m.zhuk.ca@gmail.com &nbsp;&nbsp;|&nbsp;&nbsp;[LinkedIn](https://linkedin.com/in/mykola-zhuk)
-- **Portfolio**: https://myk0laua.github.io/
----
+I build web applications, APIs, and data pipelines, from database design and user-facing features to testing and cloud deployment. My background combines an Honours B.Sc. in Mathematics from the University of Toronto with startup, volunteer, and consulting experience.
 
-## 🚀 Highlight Projects
+[Portfolio](https://myk0laua.github.io/) · [CV](https://myk0laua.github.io/assets/Mykola-Zhuk-CV.pdf) · [LinkedIn](https://linkedin.com/in/mykola-zhuk) · [Email](mailto:m.zhuk.ca@gmail.com)
 
-| Project | Tech & Focus | Links |
-|---------|--------------|-------|
-| **Scriptorium** – code-sharing platform with a secure Docker sandbox (10 + languages) and 20 + JWT-secured REST APIs. | React&nbsp;/&nbsp;Next.js · Prisma · AWS · Docker | [Repo](https://github.com/myk0laUA/Scriptorium-CSC309) |
-| **Project Ollon** – code-analysis MVP using OpenAI & Cohere LLMs; cut scan-time 80 % and manual review 60 %. | Node.js · Prisma · LLM APIs · Docker | [Repo](https://github.com/myk0laUA/CSC301-ProjectOllon) |
-| **ML Classifier** – survey-text Random Forest hitting 89 % accuracy with reproducible scikit-learn pipeline. | Python · scikit-learn · pandas | [Repo](https://github.com/myk0laUA/CSC311-MLProj) |
+Open to backend, full-stack, and applied AI opportunities in Toronto or remotely.
 
-*(More in my pinned repositories.)*
+## Featured projects
 
----
+### [Talk to a Document](https://github.com/myk0laUA/talk_to_YTVideo-and-PDF)
 
-## 🛠️ Tech Stack
+Voice and text conversations with PDFs and YouTube videos. Built source inspection, WebRTC streaming, automatic voice reconnection, and voice/text handoffs that restore up to 128 completed dialogue turns. Repository validation includes 1,660 unit tests and 160 browser mode-switch checks.
 
-<div align="center">
+**Stack:** TypeScript, Next.js, PostgreSQL, Prisma, OpenAI Realtime, WebRTC
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[Try the live app](https://talk-to-document-4pre.onrender.com/) · [Architecture and tradeoffs](https://github.com/myk0laUA/talk_to_YTVideo-and-PDF#architecture)
 
-</div>
+### [Scriptorium](https://github.com/myk0laUA/Scriptorium-CSC309)
 
----
+A team-built platform for writing, running, and sharing code. I built the template, forking, and execution flows across the API and frontend, created Docker environments for 10+ languages with resource limits, and added GitHub and Google OAuth sign-in.
 
-## 📊 GitHub Stats
+**Stack:** React, Next.js, Prisma, Docker, AWS EC2
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Myk0laUA&show_icons=true&theme=vue-dark" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Myk0laUA&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D" />
-</div>
+[Try the live app](https://scriptorium-myk.duckdns.org/)
 
----
+### [Project Ollon](https://github.com/myk0laUA/CSC301-ProjectOllon)
 
-*Always happy to connect, brainstorm, or hack on something new — drop me a line!*
+An industry-partnered code-review MVP combining static analysis with OpenAI and Cohere models. I built backend checks for duplication, style, and complexity, and designed a Prisma schema that reduced full-scan time by 80% in the project evaluation.
+
+**Stack:** Node.js, Prisma, OpenAI, Cohere
+
+### [Survey-to-food classifier](https://github.com/myk0laUA/CSC311-MLProj)
+
+A reproducible training and prediction pipeline for survey data. The PyTorch MLP achieved **89.96% accuracy on 249 held-out rows**, with splits grouped by respondent and preprocessing fitted on training data only. Includes the original Random Forest implementation and a prediction CLI.
+
+**Stack:** Python, PyTorch, scikit-learn, pandas
+
+## Recent experience
+
+- **Software Developer, contract · B2B SaaS Startup · Jun-Aug 2026**
+
+  Built a Python pipeline extracting 20 corporate-event types from financial news, with 99.7% of output records passing client-defined schema validation. Deployed and tested on Azure; caching and selective inference reduced token usage by 17.9%.
+
+- **Backend Engineer, volunteer · [Tacmedbat](https://www.tacmedbat.com/en) · Oct 2025-Mar 2026**
+
+  Built NestJS/MongoDB APIs and a custom admin interface for Ukrainian/English website content. Delivered 15+ features and fixes across content management, image handling, access control, payments, and SMTP.
+
+- **Software Analyst · Accenture · Jun-Aug 2024**
+
+  Developed Python/OpenAI prototypes for retail Q&A and semantic search, supported by pipelines ingesting and enriching 50,000+ product records.
+
+## Tools I work with
+
+- **Languages:** Python, TypeScript, JavaScript, Java, SQL, Bash
+- **Applications and data:** React, Next.js, Node.js, NestJS, PostgreSQL, MongoDB, Prisma
+- **AI and ML:** OpenAI APIs, PyTorch, scikit-learn
+- **Cloud and delivery:** Azure, AWS EC2, Docker, GitHub Actions, Git, Linux
+- **Testing:** pytest, Jest, Playwright, Postman
+
+More engineering details, screenshots, and project context are on my [portfolio](https://myk0laua.github.io/).
