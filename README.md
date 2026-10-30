@@ -3,10 +3,10 @@
 <p align="center"><strong>Backend · Full-stack · Applied AI</strong><br>Software developer based in Toronto</p>
 
 <p align="center">
-  <a href="https://myk0laua.github.io/"><img src="https://img.shields.io/badge/Portfolio-3B5CCC?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Visit my portfolio"></a>
-  <a href="https://myk0laua.github.io/assets/Mykola-Zhuk-CV.pdf"><img src="https://img.shields.io/badge/Download_CV-263449?style=for-the-badge" alt="Download my CV (PDF)"></a>
-  <a href="https://linkedin.com/in/mykola-zhuk"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="Connect on LinkedIn"></a>
-  <a href="mailto:m.zhuk.ca@gmail.com"><img src="https://img.shields.io/badge/Email-263449?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email me"></a>
+  <a href="https://myk0laua.github.io/"><img src="./assets/badges/portfolio.svg" alt="Visit my portfolio"></a>
+  <a href="https://myk0laua.github.io/assets/Mykola-Zhuk-CV.pdf"><img src="./assets/badges/cv.svg" alt="Download my CV (PDF)"></a>
+  <a href="https://linkedin.com/in/mykola-zhuk"><img src="./assets/badges/linkedin.svg" alt="Connect on LinkedIn"></a>
+  <a href="mailto:m.zhuk.ca@gmail.com"><img src="./assets/badges/email.svg" alt="Email me"></a>
 </p>
 
 <p align="center">
